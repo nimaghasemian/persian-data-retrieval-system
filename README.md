@@ -71,21 +71,7 @@ The notebook will:
 Modify the query string in the notebook to test different search phrases. The system will return a list of document IDs that match the query based on their positional information and computed weights.
 
 
-Set Up Virtual Environment:
 
-It is recommended to use a virtual environment:
-
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
-Install Dependencies:
-
-Install the required packages:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## Dataset
 The dataset used in this project can be downloaded from the following link:
@@ -103,8 +89,4 @@ The dataset used in this project can be downloaded from the following link:
 ```
 
 ## License
-```yaml
-
----
-
-Simply copy this content into a file named `README.md` in your repository's root directory. Adjust the repository URL, dataset path, and any additional details as needed for your specific implementation.
+  This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
