@@ -36,7 +36,7 @@ This project is intended as part of a larger information retrieval system and se
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:your-username/persian-data-retrieval-system.git
+   git clone git@github.com:nimaghasemian/persian-data-retrieval-system.git
    cd persian-data-retrieval-system
 2. **Set Up Virtual Environment:**
 
